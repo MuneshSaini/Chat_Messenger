@@ -30,10 +30,6 @@ Collection: Messages
 
 #### Login Screen 
 
-<div style="display: flex; flex-direction: row;">
-  <img src="images/1.jpg" style="width: 200px; height: 400px;">
-</div>
-
 
 #### Home Screen 
 
